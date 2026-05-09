@@ -2,7 +2,7 @@
 
 **Effective Date: May 9, 2026**
 
-This Privacy Policy applies to the InstaExam mobile application ("Application"), operated by Team InstaExam ("we", "our", or "us"). InstaExam is an exam update notification platform that delivers real-time alerts for KCET, JEE Main, NEET, COMEDK and other competitive exams in India.
+This Privacy Policy applies to the InstaExam mobile application ("Application"), operated by Hikify Digital Solutions ("we", "our", or "us"). InstaExam is an exam update notification platform that delivers real-time alerts for KCET, JEE Main, NEET, COMEDK and other competitive exams in India.
 
 By using the Application, you agree to the collection and use of information in accordance with this Privacy Policy.
 
