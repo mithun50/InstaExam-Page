@@ -2,7 +2,7 @@
 
 **Effective Date: May 9, 2026**
 
-These Terms & Conditions ("Terms") apply to the InstaExam mobile application ("Application"), operated by Hikify Digital Solutions ("we", "our", or "us").
+These Terms & Conditions ("Terms") apply to the InstaExam mobile application ("Application"), operated by Engineering in Kannada × NextGenXplorers ("we", "our", or "us").
 
 By downloading, accessing, or using the Application, you agree to be bound by these Terms. If you do not agree, please do not use the Application.
 
@@ -43,7 +43,7 @@ You agree not to:
 
 ## 4. Intellectual Property
 
-All intellectual property rights related to the Application, including the InstaExam name, logo, and content, remain with Hikify Digital Solutions. Unauthorized copying, modification, or redistribution is prohibited.
+All intellectual property rights related to the Application, including the InstaExam name, logo, and content, remain with Engineering in Kannada × NextGenXplorers. Unauthorized copying, modification, or redistribution is prohibited.
 
 ---
 
@@ -63,7 +63,7 @@ We strive to maintain reliable service but do not guarantee uninterrupted or err
 
 ## 7. Limitation of Liability
 
-To the maximum extent permitted by law, Hikify Digital Solutions shall not be liable for:
+To the maximum extent permitted by law, Engineering in Kannada × NextGenXplorers shall not be liable for:
 
 - Any loss or damage arising from reliance on exam information in the Application
 - Indirect or consequential losses
@@ -76,7 +76,7 @@ Your use of the Application is at your sole risk.
 
 ## 8. Indemnification
 
-You agree to indemnify Hikify Digital Solutions from any claims, damages, or expenses arising from your use of the platform or violation of these Terms.
+You agree to indemnify Engineering in Kannada × NextGenXplorers from any claims, damages, or expenses arising from your use of the platform or violation of these Terms.
 
 ---
 
