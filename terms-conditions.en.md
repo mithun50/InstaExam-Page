@@ -47,9 +47,11 @@ All intellectual property rights related to the Application, including the Insta
 
 ---
 
-## 5. Disclaimer of Accuracy
+## 5. Disclaimer
 
-Exam update information displayed in the Application is sourced from public channels and may be processed using AI. We do not warrant the accuracy, completeness, or currency of any information. Always refer to official exam authority websites for authoritative information.
+The app is provided "as is" without warranties of any kind, express or implied. We do not warrant that the app will be uninterrupted, error-free, or free of viruses.
+
+Exam notifications, updates, and descriptions provided in the app are for informational and convenience purposes only. While we strive for accuracy, information may occasionally be delayed, incomplete, incorrect, or outdated. Some content may be AI-generated and can contain inaccuracies. Users are advised to always verify details, dates, eligibility, and official announcements directly from the respective official exam or government website before taking any action. The official source shall always prevail in case of any discrepancy.
 
 ---
 
